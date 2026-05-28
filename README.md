@@ -1,2 +1,2 @@
-# claude-os
+# claude-tool-os
 A simple website built in HTML by Claude
